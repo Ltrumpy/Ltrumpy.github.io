@@ -71,8 +71,9 @@ body {
     z-index: -1;
   }
 }
+/*end loading*/
 
-/*page*/
+
 body {
   margin: 0;
 }
@@ -110,7 +111,7 @@ li:active {
  position: absolute;
  right: 20px;
  padding-left: 10px;
- color: #d3def0;
+ color: white;
 }
 header li {
   display: inline-block;
